@@ -1,6 +1,7 @@
 # Hello, we're Othor. We are on a mission to simplify, fast-track, and liberate business intelligence by replacing traditional dashboards with narratives and smart charts powered by AI & free software
 
-Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes
+Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. Know more - https://othor.ai
+
 
 ![Group 2(1)](https://github.com/user-attachments/assets/39797104-9135-4b7a-bb33-9b326e3fe957)
 
