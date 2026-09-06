@@ -1,15 +1,19 @@
-# Hello, we're Othor. We are on a mission to simplify, fast-track, and liberate business intelligence by replacing traditional dashboards with narratives and smart charts powered by AI & free software
+# Othor AI - Meet Your AI Head of Intelligence
 
-We are reinventing business intelligence from first principles. [The updates & support for opensource version is discontinued since Feb 2025. Check the latest version of enterprise product at https://othor.ai/ ]
-
-Othor is an AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. Know more - https://othor.ai
+## Signal reports, decision briefs, and answers to questions you never thought to ask. Advanced data science, simplified.
 
 
-![Group 2(1)](https://github.com/user-attachments/assets/39797104-9135-4b7a-bb33-9b326e3fe957)
+We started this github org and repo to reinvent business intelligence from first principles inspired by the tradecraft of intelligence agencies. [The updates & support for opensource version is discontinued since Feb 2025. Check the latest version of enterprise product at https://othor.ai/ ]
 
-We're transforming how leaders understand and drive their businesses. Our AI acts like an oracle, delivering clear, actionable insights that cut through complexity and empower you to make informed decisions with confidence. By simplifying vast data into real-time guidance, we help you navigate your business with clarity and precision.
+Othor AI is a new kind of business intelligence, built on the best practices of the world's elite intelligence agencies. It includes advanced signal intelligence capabilities that you can implement quickly and easily in your enterprise business context.
 
-In today's fast-paced world, Othor.ai strips away unnecessary noise to provide the right insights exactly when you need them. Whether you're leading innovation or executing large-scale strategies, our platform anticipates your needs and adapts to your challenges, giving you the tools to shape your business's future with confidence. 
+<img width="1200" height="600" alt="Open_Graphics2" src="https://github.com/user-attachments/assets/9b1ff36e-883d-44f9-aad8-389863a80ef8" />
+
+
+Every great decision-maker in history had someone whose only job was to tell them the truth about what was really happening. That role has always been reserved for heads of state and Fortune 500 CEOs. Our vision is to give every leader in every company, at every level their own Head of Intelligence, so the quality of your decisions is no longer limited by the size of your analytics team.
+
+## Know more
+Commercial product - https://othor.ai
 
 ## Contact us
-Meet our team for any commercial inquiries - https://cal.com/othor
+Meet our team for any commercial inquiries - [[https://cal.com/othor](https://othor.ai/contact/)](https://othor.ai/contact/)
