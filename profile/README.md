@@ -1,22 +1,29 @@
-# Othor AI - Meet Your AI Head of Intelligence
+# Othor AI · Meet your Head of Intelligence
 
-## Signal reports, decision briefs, and answers to questions you never thought to ask. Advanced data science, simplified.
+**A new species of business intelligence**, built on the tradecraft of intelligence agencies and on classical signal analysis. Every night it tests every metric and every breakdown of your business, and every morning it tells you, in plain words, the few things that matter.
 
-### 100x better than using Claude or ChatGPT alone and at a fraction of the cost of your existing LLM and BI stack.
+<img width="1200" height="600" alt="Othor AI" src="https://github.com/user-attachments/assets/9b1ff36e-883d-44f9-aad8-389863a80ef8" />
 
-We started this GitHub org and repo to reinvent business intelligence from first principles, drawing on the tradecraft of intelligence agencies.
+## The open core: [othorai/othor-ai](https://github.com/othorai/othor-ai)
 
-**Note**: This open-source project was discontinued in February 2025. The latest enterprise version is available at https://othor.ai/
+Othor AI is a self-hostable analytics engine that runs as a deterministic nightly batch. It reads your databases in place, read-only, tests every number with statistical detectors, forecasts each series, and sends a ranked **Morning Brief** at 6:00 AM, with every figure traceable to its SQL and test.
 
-Othor AI is a new kind of business intelligence, built on the best practices of the world's elite intelligence agencies. It includes advanced signal intelligence capabilities that you can implement quickly and easily in your enterprise business context.
+- **AI drafts, code computes:** no number ever comes from a language model.
+- **Same inputs, same numbers:** any night replays byte for byte.
+- **Read-only, in place:** your data stays where it is.
+- **Apache-2.0:** run it on your own server, for free.
 
-<img width="1200" height="600" alt="Open_Graphics2" src="https://github.com/user-attachments/assets/9b1ff36e-883d-44f9-aad8-389863a80ef8" />
+→ **[Get started with othor-ai](https://github.com/othorai/othor-ai)**
 
+## Hosted and Enterprise Edition
 
-Every great decision-maker in history had someone whose only job was to tell them the truth about what was really happening. That role has always been reserved for heads of state and Fortune 500 CEOs. Our vision is to give every leader in every company, at every level their own Head of Intelligence, so the quality of your decisions is no longer limited by the size of your analytics team.
+Run it for you on [othor.ai](https://othor.ai), with a 14-day free trial, or on your own servers with the [Enterprise Edition](https://othor.ai/enterprise): Advanced Intelligence, several companies on one install, and enterprise-grade support.
 
-## Know more
-Enterprise product - https://othor.ai
+Every great decision-maker in history had someone whose only job was to tell them the truth about what was really happening. Our vision is to give every leader in every company their own Head of Intelligence, so the quality of your decisions is no longer limited by the size of your analytics team.
 
-## Contact us
-Meet our team for any enterprise inquiries - [[https://cal.com/othor](https://othor.ai/contact/)](https://othor.ai/contact/)
+## Links
+
+- Website: [othor.ai](https://othor.ai)
+- Pricing: [othor.ai/pricing](https://othor.ai/pricing)
+- Talk to us: [othor.ai/contact](https://othor.ai/contact)
+- Security: security@othor.ai
