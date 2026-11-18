@@ -2,7 +2,7 @@
 
 **A new species of business intelligence**, built on the tradecraft of intelligence agencies and on classical signal analysis. Every night it tests every metric and every breakdown of your business, and every morning it tells you, in plain words, the few things that matter.
 
-<img width="1200" height="600" alt="Othor AI" src="https://github.com/user-attachments/assets/9b1ff36e-883d-44f9-aad8-389863a80ef8" />
+<img width="1280" height="640" alt="og-github" src="https://github.com/user-attachments/assets/bd9db16f-6291-4637-8f13-6a758be4085f" />
 
 ## The open core: [othorai/othor-ai](https://github.com/othorai/othor-ai)
 
